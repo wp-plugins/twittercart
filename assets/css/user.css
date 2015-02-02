@@ -1,0 +1,176 @@
+.loader {
+    display: block;
+    text-align: center;
+    font-style: italic;
+    margin-top: 0;
+    margin-bottom: 5px;
+    color: #666;
+    margin-top: 200px;
+}
+
+#mpcth_page_wrap .mpcth-list-item:before, #mpcth_page_wrap ul li:before, #mpcth_page_wrap #mpcth_main ul li:before, ol li:before, #mpcth_page_wrap #mpcth_page_header_secondary_content #mpcth_newsletter .mpcth-newsletter-toggle:before, #mpcth_page_wrap #mpcth_page_header_secondary_content #mpcth_newsletter form:before, #mpcth_page_wrap #mpcth_page_header_secondary_content #mpcth_newsletter .mpcth-newsletter-subscribe:before, #mpcth_page_wrap #mpcth_main .wpb_call_to_action.cta_align_left .wpb_button_a:after{
+    border-color: white !important;
+}
+
+#usertctwaccount{
+    width: 780px;
+    height: 800px;
+    margin-top: 50px;
+}
+
+#userTimelineBox{
+    height: 600px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+#userRepliesBox{
+    height: 600px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+#userRetweetsBox{
+    height: 600px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+#userFollowersBox{
+    height: 600px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+#userFavoriteBox{
+    height: 600px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+#userInboxBox{
+    height: 600px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+#userOutboxBox{
+    height: 600px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.tc_tweet_box_user{
+    width: 350px;
+    margin: 20px 0px;
+    padding-right: 10px;
+}
+
+.tc_tweet_left_user{
+    width: 60px;
+    float: left;
+}
+
+.tc_twitter_avatar_sm_user{
+    width: 50px;
+    height: 50px;
+    float: left;
+    margin: 5px;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+}
+
+.tc_tweet_right_user{
+    width: 280px;
+    float: right;
+}
+
+.tc_author_action_panel_user{
+    width: 250px;
+}
+
+.tc_author_panel_user{
+    width: 120px;
+    float: left;
+}
+
+.tc_action_panel_user{
+    width: 130px;
+    float: left;
+}
+
+.tc_twitter_action_user{
+    width: 30px;
+    height: 30px;
+    float: right;
+    background-repeat: no-repeat;
+    background-position: center;
+    cursor: pointer !important;
+}
+
+.tc_text_panel_user{
+    width: 250px;
+    margin-top: 25px;
+}
+
+#timeline_box_user{
+    margin-left: 140px;
+}
+
+#reply_msg{
+    resize: none;
+}
+
+#userRepliesBox{
+    height: 600px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+#directbox_user{
+    width: 440px;
+    margin-left: 20px;
+}
+
+#senddmbox_user{
+    width: 440px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+#dmfortextarea_user{
+    width: 300;
+    float: left;
+}
+#dmtextarea_user{
+    width: 300px;
+    height: 45px;
+    resize: none;
+}
+#forsenddmbutton_user{
+    float: right;
+}
+
+.tcdminbox_user{
+    float: right;
+    width: 240px;
+    background: #E5F2B1;
+    margin-top: 10px;
+    padding: 5px;
+    text-align: center;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+}
+.tcdmoutbox_user{
+    float: left;
+    width: 240px;
+    background: #73a724;
+    margin-top: 10px;
+    padding: 5px;
+    text-align: center;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+}

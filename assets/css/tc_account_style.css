@@ -1,0 +1,1175 @@
+/*Main_styles*/
+* {
+    margin: 0;
+    padding: 0;
+}
+img,form,fieldset {border-style:none;}
+ul {list-style: none;}
+#tc_wrapper header a, #tc_wrapper nav ul li a{
+    text-decoration: none;
+    color: #fff;
+}
+
+#headertitle{
+    background: url("../images/twt_logo.png") no-repeat scroll 5px 25px;
+    font-family: "Verdana";
+    font-size: 32px;
+    font-weight: normal;
+    line-height: 20px;
+    padding: 26px 50px 32px;
+}
+
+#tc_wrapper #content a{
+    text-decoration: none;
+}
+
+.user_info p{
+    margin: 0px;
+}
+/*Wrapper*/
+
+#tc_wrapper {
+    /*width: 1175px;*/
+    padding: 0 3.5%;
+    margin: 0 auto;
+    min-width: 1175px;
+}
+
+/*Header*/
+
+#tc_wrapper #header {color: #363a40}
+#tc_wrapper h1 {
+    background: url("../images/twt_logo.png") no-repeat scroll 5px 25px;
+    font-family: "Verdana";
+    font-size: 32px;
+    font-weight: normal;
+    line-height: 20px;
+    padding: 26px 50px 32px;
+}
+#tc_wrapper #header>ul {
+    display: table;
+    width: 100%;
+
+}
+#tc_wrapper #header>ul>li {
+    display: table-cell;
+    text-align: center;
+    max-width: 0;
+    background-color: #727b88;
+    vertical-align: middle;
+}
+#tc_wrapper #header>ul>li>a {
+    display: block;
+    font-size: 14px;
+    font-family: "Verdana";
+    background-color: #727b88;
+    display: block;
+    border-right:1px solid #606874;
+    border-bottom: 4px solid #606874;
+    padding: 26px 0 20px 0;
+    line-height: 28px;
+}
+#tc_wrapper #header>ul>li:last-child a {
+    border-right: none;
+}
+#tc_wrapper #header>ul>li>a:hover, #header>ul>li>a.active{
+    background-color: #26b8ea !important;
+    border-right-color: #527c92 !important;
+    border-bottom-color: #1da4d2 !important;
+}
+#tc_wrapper #header>ul>li>a>img {
+    float: left;
+    margin:0 -21px 0 13px;
+}
+#tc_wrapper #header>ul>li>a>img[alt=Home]{margin: 0 -21px 0 19px}
+#tc_wrapper #header>ul>li>a>img[alt=Profile]{margin: -2px -22px 0 14px}
+#tc_wrapper #header>ul>li>a>img[alt=Replies]{margin: -1px -18px 0 14px}
+#tc_wrapper #header>ul>li>a>img[alt=Retweets]{margin: 1px -17px 0 6px}
+#tc_wrapper #header>ul>li>a>img[alt=Favorites]{margin: 0px -21px 0 13px}
+#tc_wrapper #header>ul>li>a>img[alt=Following]{margin: 3px -11px 0 13px}
+#tc_wrapper #header>ul>li>a>img[alt=Followers]{margin: 1px -7px 0 13px}
+#tc_wrapper #header>ul>li>a>img[alt=Messages]{margin: 1px -6px 0 13px}
+#tc_wrapper #header>ul>li>a>img[alt=Products]{margin: 2px -17px 0 13px}
+
+
+
+/*Main*/
+
+#tc_wrapper #tc_main {
+    background-color: #ced1d4;
+    overflow: hidden;
+    padding: 14px 14px 0 15px;
+    margin-bottom: 33px;
+}
+
+/*Nav_Bar*/
+
+#tc_wrapper .nav_bar {
+    float: left;
+    width: 268px;
+}
+#tc_wrapper .nav_bar .user {
+    background-color: #fff;
+    margin-bottom: 11px;
+}
+.nav_bar .user_bg>img {
+    display: inline-block;
+    width: 100%;
+    height: 87px;
+    // background: #26b8ea url("../images/no_pic.png") center no-repeat;
+}
+
+.ext_nopic{
+    background: #26b8ea url("../images/no_pic.png") center no-repeat;
+}
+
+.user_info {
+    position: relative;
+    padding-top: 6px;
+    padding-bottom: 8px;
+}
+.user_info>img.ava {
+    //background: #ccd1da  url("../images/no_pic.png") center no-repeat;
+    display: inline-block;
+    border-radius: 9px;
+    border: 3px solid #fff;
+    position: absolute;
+    top: -29px;
+    left: 8px;
+}
+.user_info>p {
+    padding-left: 90px;
+}
+.user_info>p.u_name {
+    color: #292f33;
+    font: 19px/23px "Trebuchet MS";
+}
+.user_info>p.tw_name {
+    font-family: 'Trebuchet MS';
+    font-family: 13px;
+    color: #717a87;
+    letter-spacing: -0.5px;
+    margin-bottom: 16px;
+}
+.nav_bar .tw_statist {
+    width: 100%;
+    text-align: center;
+}
+.nav_bar .tw_statist>div {
+    width: 30%;
+    display: inline-block;
+}
+.tweets, .following, .followers {
+    text-align: left;
+}
+.tweets>p {padding-left: 6px;}
+.tweets>span {padding-left: 4px}
+.following>p {padding-left: 9px}
+.following>span {padding-left: 10px}
+.followers>p {text-align:center; padding-left: 13px}
+.followers>span {padding-left: 19px}
+.tweets>p, .following>p, .followers>p {
+    color: #717a87;
+    text-transform: uppercase;
+    font: 10px/9px "Trebuchet MS";
+}
+.tweets>span, .following>span, .followers>span {
+    color: #28b7e9;
+    font-family: 'Trebuchet MS';
+    font-size: 19px;
+}
+.nav_bar>nav>ul>li{
+    margin-bottom: 2px;
+}
+.nav_bar>nav>ul>li>a {
+    display: block;
+    font-family: 'Verdana';
+    background-color: #727b88;
+    border-bottom: 4px solid #606874;
+    padding: 12px 0 6px 8px;
+}
+.nav_bar>nav>ul>li>a:hover, .nav_bar>nav>ul>li>a.active {
+    background-color: #26b8ea !important;
+    border-bottom-color: #1da4d2 !important;
+}
+.nav_bar>nav>ul>li>a>img {
+    vertical-align: middle;
+    margin-right: 18px;
+}
+
+/*Container*/
+
+.tc_main_container {
+    margin: 0 0 0 278px;
+}
+
+/*Content*/
+
+#content {
+    background-color: #fff;
+    margin: 0 310px 0 0;
+}
+#content>form.my_news {
+    background-color: #f5fafe;
+    padding: 20px 21px 0 23px;
+    overflow: hidden;
+}
+.my_news>img {
+    display: inline-block;
+    //background: #ced1d4 url("../images/no_pic.png") center/50% 50% no-repeat;
+    border-radius: 3px;
+    float: left;
+    margin: 3px 1px;
+}
+.add_new {
+    margin-left: 40px;
+    margin-bottom: 18px;
+}
+#whatsNew {
+    width: 100%;
+    box-sizing: border-box;
+    height: 98px;
+
+
+    border: 1px solid #ced1d4;
+    resize: none;
+    padding: 6px 2%;
+    font-family: 'Trebuchet MS';
+    font-size: 13px;
+    margin-bottom: 16px;
+
+}
+.twt_send {
+    overflow: hidden;
+    text-align: right;
+}
+.twt_send>input {
+    font: 16px "Verdana";
+    font-weight: bold;
+    background-color: #26b8ea;
+    border: none;
+    border-bottom: 4px solid #1da4d2;
+    color: #fff;
+    padding: 5px 35px;
+    margin-left: 9px;
+}
+.twt_send>span.symbols {
+    font: 14px "Trebuchet MS";
+    color: #717a87;
+}
+.addPhoto {
+    background: url("../images/add_photo.png") 0 0 no-repeat;
+    float: left;
+    font: 13px/23px 'Trebuchet MS';
+    color: #28b7e9;
+    padding-left: 36px;
+    margin: 8px 9px;
+}
+.twt_container>a.twt_view {
+    font-family: "Trebuchet MS";
+    color: #28b7e9;
+    display: block;
+    border-bottom: 1px solid #f1f6fa;
+    text-align: center;
+    line-height: 40px;
+}
+.twt_container>ul>li {
+    border-bottom: 1px solid #f1f6fa;
+    padding: 16px 26px 0 14px;
+    overflow: hidden;
+}
+.twt_container>ul>li>img {
+    display: inline-block;
+    background: #ccd1da url("../images/no_pic.png") center no-repeat;
+    border-radius: 3px;
+    float: left;
+}
+.user_tweet {
+    margin: -6px 0 12px 63px;
+}
+.user_tweet>p {margin-bottom: 2px}
+.user_tweet>p>span.user_name {
+    font: 700 14px 'Open Sans', sans-serif; 
+    color: #292f33;
+    margin-right: 6px;
+}
+.user_tweet>p>span.user_twtname {
+    font: 400 13px 'Open Sans', sans-serif; 
+    color: #8899a6;
+}
+.user_tweet>article {
+    color: #292f33;
+    font: 400 13px 'Open Sans', sans-serif; 
+    margin-bottom: 10px;
+}
+.user_twtopt {
+    padding-left: 14px;
+}
+.user_twtopt>a {
+    height: 16px;
+    display: inline-block;
+    vertical-align: top;
+}
+.user_twtopt .back {
+    background: url("../images/opt01.png") 0 3px no-repeat;
+    width: 17px;
+    margin-right: 37px;
+}
+.user_twtopt .res {
+    background: url("../images/opt02.png") 0 3px no-repeat;
+    padding-left: 26px;
+    color: #8899a6;
+    font: 400 13px 'Open Sans', sans-serif; 
+    margin-right: 36px;
+}
+.user_twtopt .like {
+    background: url("../images/opt03.png") 0 1px no-repeat;
+    padding-left: 22px;
+    color: #8899a6;
+    font: 400 13px 'Open Sans', sans-serif; 
+    margin-right: 29px;
+}
+.user_twtopt .etc {
+    background: url("../images/opt04.png") 0 7px no-repeat;
+    width: 19px;
+}
+
+/*Side_Bar*/
+
+#tc_wrapper .side_bar {
+    float: right;
+    width: 300px;
+}
+.side_bar>section {
+    background: #fff;
+    margin-bottom: 10px;
+}
+.side_bar>section>h2 {
+    font-family: 'Trebuchet MS';
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 54px;
+    color: #717a87;
+    padding: 0 0 0 14px;
+    border-bottom: 1px solid #f1f6fa;
+}
+.side_bar>section>ul>li {
+    border-bottom: 1px solid #f1f6fa;
+    padding: 8px 17px 8px 11px;
+}
+.side_bar>section>ul>li:last-child {
+    border-bottom: none;
+}
+.side_bar>section>ul>li>a {
+    display: inline-block;
+    font: 15px "Verdana";
+    color: #3bafda;
+    text-decoration: none;
+}
+.side_bar>section>ul>li>a:first-child span {
+    color: #434a54;
+    float: right;
+    margin-top: 10px;
+}
+.side_bar>section>ul>li>a:first-child img {
+    display: inline-block;
+    background: #ccd1da url("../images/no_pic.png") center no-repeat;
+    border-radius: 3px;
+    vertical-align: middle;
+    margin-right: 11px;
+}
+.latest_products{
+    margin-top: -15px;
+}
+.latest_products>ul>li>a {
+    width: 100%;
+}
+.new_products>h2>a {
+    float: right;
+    margin-right: 16px;
+}
+.new_products>ul>li>a:last-child {
+    float: right;
+    line-height: 40px;
+}
+.new_products>h2>a img, .new_products>ul>li>a:last-child img {
+    vertical-align: middle;
+}
+
+
+.activeHome:hover{
+    background-color: #26b8ea !important;
+    border-right-color: #527c92 !important;
+    border-bottom-color: #1da4d2 !important;
+}
+
+#productAttachCheck{
+    display: none;
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.retweets_head {
+    padding: 18px 20px 16px;
+    border-bottom: 1px solid #f1f6fa;
+}
+.retweets_head>p {
+    color: #717a87;
+    font-size: 19px;
+    font-family: 'Trebuchet MS';
+    background: url("../images/retweet_ico.png")0 2px no-repeat;
+    padding-left: 40px;
+}
+
+/*Page_Following*/
+
+.following_container #content {
+    margin-right: 0;
+}
+
+.following_head {
+    padding: 17px 18px 16px;
+    border-bottom: 1px solid #f1f6fa;
+}
+.following_head>p {
+    color: #717a87;
+    font-size: 19px;
+    font-family: 'Trebuchet MS';
+    background: url("../images/following_ico.png")0 3px no-repeat;
+    padding-left: 42px;
+}
+.flw_users {padding: 8px 0 0 9px}
+.flw_users > ul {
+    width: 100%;
+}
+.flw_users > ul > li {
+    display: inline-block;
+    margin: 8px 6px;
+    width: 268px;
+}
+.flw_users .user_info {
+    border: 1px solid #ced1d4;
+    border-top: none;
+    padding-bottom: 12px;
+}
+.flw_users .user_info > p.tw_name {
+    margin-bottom: 7px;
+}
+.flw_users .user_info > p {
+    padding-left: 89px;
+}
+.user_about {
+    min-height: 36px;
+    padding-left: 11px;
+    margin-bottom: 12px;
+}
+.user_about>p {
+    font: 13px "Trebuchet MS";
+    color: #717a87;
+}
+.flw_user_buttons {
+    text-align: right;
+    padding: 0 11px;
+}
+.flw_user_buttons button {
+    background: none;
+    border: none;
+    vertical-align: middle;
+    margin-right: 6px;
+}
+.flw_user_buttons input[type=button] {
+    border: 0;
+    font-size: 14px;
+    font-family: "Verdana";
+    font-weight: bold;
+    width: 104px;
+    text-align: center;
+    padding: 4px 0 4px 3px;
+}
+.flw_user_buttons input[value=Following] {
+    color: #fff;
+    background: #26b8ea;
+    border-bottom: 4px solid #1da4d2;
+    cursor: pointer;
+}
+
+.flw_user_buttons input[value=Follow]{
+    color: #fff;
+    background: red;
+    border-bottom: 4px solid red;
+    cursor: pointer; 
+}
+
+.dinUnfollowed{
+    color: #fff !important;
+    background: red !important;
+    border-bottom: 4px solid red !important;
+    cursor: pointer !important; 
+}
+
+.dinUnfollowed:hover{
+    color: #fff !important;
+    background: #26b8ea !important;
+    border-bottom: 4px solid #1da4d2 !important;
+    cursor: pointer !important;
+}
+
+.flw_user_buttons input[value=Follow] {
+    color: #26b8ea;
+    background: #e1e1e1 url(../images/follow_ico.png) 20px 7px no-repeat;
+    border-bottom: 4px solid #b5b5b5;
+    padding-left: 21px;
+}
+
+.user_about {
+    height: 36px;
+    margin-bottom: 10px;
+}
+.user_about p {
+    color: #717a87;
+    font-family: "Trebuchet MS";
+    letter-spacing: -0.5px;
+}
+#mCSB_1_dragger_vertical {
+    height: 7px !important;
+    left: 3.5px;
+    width:7px !important;
+}
+.mCS-rounded.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar,
+.mCS-rounded-dark.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar,
+.mCS-rounded-dots.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar,
+.mCS-rounded-dots-dark.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar
+{width: 7px}
+#mCSB_1_dragger_vertical  .mCSB_dragger_bar {
+    background-color: rgba(38, 184, 234, 0.75) !important;
+}
+.mCS-rounded.mCSB_scrollTools .mCSB_draggerRail {
+    background-color: rgba(38, 184, 234, 0.15) !important;
+}
+.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {background-color: rgba(38, 184, 234, 0.75) !important;}
+.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {height: 7px  !important}
+.mCS-rounded.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar, .mCS-rounded-dark.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar, .mCS-rounded-dots.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar, .mCS-rounded-dots-dark.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {width: 7px !important}
+
+
+/*-----------------------------------------Page_Support-----------------------------------------*/
+
+.upd #main {
+    background: transparent;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 33px;
+}
+.upd #main>div {
+    /*width: 48.25%;*/
+    background-color: #fff;
+}
+.update_container {
+    float: left;
+    width: 564px;
+}
+.update_menu {
+    width: 100%;
+    overflow: hidden;
+}
+.update_menu>span {
+    width: 50%;
+    display: inline-block;
+    background-color: #727b88;
+    border-bottom: 4px solid #606874;
+    float: left;
+    cursor: default;
+    color: #fff;
+    font-size: 22px;
+    font-family: "Verdana";
+    padding-left: 63px;
+    box-sizing: border-box;
+    line-height: 72px;
+}
+.update_menu>span:first-child {
+    background-image: url("../images/upd_ico02.png");
+    background-position: 17px 22px;
+    background-repeat: no-repeat;
+}
+.update_menu>span:last-child {
+    background-image: url("../images/upd_ico01.png");
+    background-position: 18px 27px;
+    background-repeat: no-repeat;
+}
+.update_menu>span.active, .update_menu>span:hover {
+    background-color: #26b8ea;
+    border-bottom: 4px solid #1da4d2;
+}
+.update_menu>span:first-child.active, .update_menu>span:first-child:hover {
+    border-right: 1px solid #527c92;
+}
+.update_history, .support-box>form {
+    border: 1px solid #d4d7db;
+}
+.date_update {
+    padding: 21px 21px 15px;
+}
+.update_days {
+    width: 100%;
+    overflow: hidden;
+    margin-bottom: 19px;
+}
+.update_days>span:first-child {
+    font: 18px/21px "Verdana";
+    font-weight: bold;
+    color: #26b8ea;
+    width: 15%;
+    text-align: center;
+    box-sizing: border-box;
+    display: inline-block;
+}
+.update_days>span:first-child a {
+    display: inline-block;
+    margin-top: 9px;
+}
+.update_calendar {
+    width: 80%;
+    float: right;
+}
+#calendar {
+    width: 100%;
+    text-align: center;
+    color: #727b88;
+    font: 14px "Verdana";
+    cursor: default;
+}
+#calendar td {
+    max-width: 0;
+}
+#calendar thead tr:first-child {
+    font: 22px/22px "Verdana";
+    font-weight: bold;
+    color: #606874;
+}
+#calendar thead tr:last-child {
+    font-size: 22px;
+    line-height: 26px;
+    height: 30px;
+    vertical-align: top;
+    font-family: "Verdana";
+    color: #26b8ea;
+}
+#calendar tbody td {
+    background-color: #e7ebf0;
+    height: 30px;
+}
+#calendar tbody td.today {
+    background-color: #26b8ea;
+    color: #fff;
+    font-family: 'Verdana';
+    font-weight: bold;
+}
+.select_date {
+    color: #26b8ea;
+    font: 18px "Verdana";
+    font-weight: bold;
+    text-indent: 5px;
+    margin-bottom: 23px;
+}
+.update_change {
+    overflow: hidden;
+    width: 100%;
+    color: #727b88;
+    font: 14px "Verdana";
+    margin-bottom: 41px;
+}
+.date_update .update_change:last-child {
+    margin-bottom: 0;
+}
+.update_change>span:first-child {
+    color: #26b8ea;
+    font: 16px "Verdana";
+    font-weight: bold;
+    width: 73px;
+    display: inline-block;
+    float: left;
+    min-height: 32px;
+    padding-left: 33px;
+}
+.update_change>span:last-child {
+    margin-left: 106px;
+    display: block;
+    line-height: 18px;
+}
+.added {
+    background: url("../images/upd_ico04.png") 1px 0 no-repeat;
+}
+.fixed {
+    background: url("../images/upd_ico05.png") 1px 7px no-repeat;
+}
+.latest_update {
+    display: none;
+}
+.latest_update>p{
+    background-color: #e9f9ff;
+    font: 26px/40px "Verdana";
+    font-weight: bold;
+    color: #26b8ea;
+    text-indent: 22px;
+    margin-bottom: 21px;
+}
+.latest_update .update_change {
+    padding: 0 22px;
+    width: auto;
+}
+.support-box {
+    margin-left: 609px;
+    width: auto;
+}
+.support-box>span {
+    color: #fff;
+    font-size: 22px;
+    font-family: "Verdana";
+    padding-left: 69px;
+    box-sizing: border-box;
+    line-height: 74px;
+    background-color: #26b8ea;
+    border-bottom: 4px solid #1da4d2;
+    display: block;
+    background-image: url("../images/upd_ico06.png");
+    background-position: 24px 18px;
+    background-repeat: no-repeat;
+}
+.support-box>form {
+    width: 100%;
+    padding: 17px 21px 19px;
+    box-sizing: border-box;
+    text-align: right;
+}
+.support-box>form>textarea {
+    width: 100%;
+    background-color: #e7ebf0;
+    border: none;
+    color: #727b88;
+    font: 14px "Verdana";
+    min-height: 120px;
+    margin-bottom: 14px;
+    padding: 11px 20px;
+    box-sizing: border-box;
+}
+.support-box>form>input[type=button] {
+    border: none;
+    background-color: #26b8ea;
+    border-bottom: 4px solid #1da4d2;
+    color: #fff;
+    font: 14px/30px "Verdana";
+    font-weight: bold;
+    width: 104px;
+}
+.mess {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 13px;
+}
+.mess>img {
+    vertical-align: middle;
+}
+
+/*-----------------------------------------Page_FAQ's-----------------------------------------*/
+
+.faq #main {
+    background-color: #fff;
+    color: #727b88;
+    font: 14px "Verdana";
+    padding: 0;
+}
+.faq_container>span {
+    background: #26b8ea url("../images/faq_ico01.png") 18px 22px no-repeat;
+    color: #fff;
+    font-size: 24px;
+    line-height: 71px;
+    text-indent: 70px;
+    border-bottom: 4px solid #1da4d2;
+    display: block;
+}
+.questions {
+    border: 1px solid #dadee2;
+    padding: 28px 106px 0;
+}
+.questions>ul {
+    margin-bottom: 26px;
+}
+.questions>ul li span {
+    color: #222221;
+    font: 16px/18px "Verdana";
+    font-weight: bold;
+    display: block;
+}
+.questions>ul li {
+    background-position: 0 4px;
+    background-repeat: no-repeat;
+    padding-left: 86px;
+    line-height: 17px;
+    margin-bottom: 25px;
+    min-height: 66px;
+}
+.questions>ul li.quest1{background-image: url(../images/faq_ico02.png)}
+.questions>ul li.quest2{background-image: url(../images/faq_ico03.png)}
+.questions>ul li.quest3{background-image: url(../images/faq_ico04.png)}
+.questions>ul li.quest4{background-image: url(../images/faq_ico05.png)}
+.tc_notes {
+    text-align:center;
+    padding: 18px 25px;
+    background: #fff url("../images/faq_ico06.png")center 0 no-repeat;
+    min-height: 90px;
+}
+.notes>p {
+    color: #92959c;
+    font-family:"Open Sans";
+    font-size: 14px;
+    font-style: italic;
+    line-height: 17px;
+}
+
+/*-----------------------------------------Page_Options-----------------------------------------*/
+
+.opt #main {
+    padding: 0;
+    background-color: transparent;
+}
+.opt #main>div {
+    display: inline-block;
+    width: 48%;
+    vertical-align: top;
+    background-color: #fff;
+    box-sizing: border-box;
+}
+.opt #main>div>span {
+    font: 22px/75px "Verdana";
+    color: #fff;
+    background-color: #26b8ea;
+    display: block;
+    border-bottom: 4px solid #1da4d2;
+    text-indent: 62px;
+}
+.opt_settings {
+    margin-right: 1.75%;
+}
+.opt_settings>span {
+    background-image: url("../images/opt_ico01.png");
+    background-position: 25px 27px;
+    background-repeat: no-repeat;
+}
+.opt_settings>form, .howdo_contain {
+    border: 1px solid #dadee2;
+}
+.opt_settings form {
+    padding: 26px 30px;
+    text-align: right;
+}
+.opt_settings>form>label {
+    font: 16px/29px "Verdana";
+    font-weight: bold;
+    color: #26b8ea;
+    text-align: left;
+    display: inline-block;
+    width: 42%;
+    vertical-align: top;
+}
+.opt_settings>form>label+input[type=text] {
+    font: 16px "Verdana";
+    color: #727b88;
+    background-color: #e7ebf0;
+    border: none;
+    display: inline-block;
+    width: 58%;
+    padding: 5px 11px;
+    box-sizing: border-box;
+    margin-bottom: 27px !important;
+}
+.opt_settings>form input[type=button] {
+    font: 14px "Verdana";
+    font-weight: bold;
+    color: #fff;
+    background-color: #26b8ea;
+    border: none;
+    width: 105px;
+    padding: 4px 0;
+    border-bottom: 4px solid #1da4d2;
+}
+.opt_settings>form input[type=submit] {
+    font: 14px "Verdana";
+    font-weight: bold;
+    font-weight: bold;
+    color: #fff;
+    background-color: #26b8ea;
+    border: none;
+    width: 105px;
+    padding: 4px 0;
+    border-bottom: 4px solid #1da4d2;
+}
+.opt_details {
+    margin-left: 1.7%;
+}
+.opt_details>span {
+    background-image: url("../images/opt_ico02.png");
+    background-position: 21px 25px;
+    background-repeat: no-repeat;
+}
+.howdo_contain {
+    font: 14px "Verdana";
+    color: #727b88;
+    padding: 20px 18px 20px 38px;
+}
+.howdo_contain ul {
+    border-left: 1px solid #26b8ea;
+    margin-bottom: 28px;
+}
+.howdo_contain ul>li {
+    margin-left: -12px;
+    margin-bottom: 6px;
+}
+.howdo_contain ul>li>span {
+    display: inline-block;
+    width: 22px;
+    height: 22px;
+    border: 1px solid #26b8ea;
+    border-radius: 11px;
+    text-align: center;
+    background-color: #fff;
+    margin-right: 22px;
+}
+.howdo_contain>p {
+    text-align: center;
+}
+.faw_quest {
+    font: 22px/23px "Verdana";
+    font-weight: bold;
+    color: #26b8ea;
+}
+
+.mCSB_outside + .mCS-minimal.mCSB_scrollTools_vertical, .mCSB_outside + .mCS-minimal-dark.mCSB_scrollTools_vertical {
+    margin: 0 !important;
+    background-color: rgba(231, 237, 247, 0.5) !important;
+}
+.mCSB_scrollTools {width: 10px !important;}
+.mCS-minimal.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {
+    background-color: rgba(204, 209, 218, 0.5) !important;
+}
+
+/*-----------------------------------------Page_Messages-----------------------------------------*/
+
+.msg_container > ul > li {
+    padding-right: 10%;
+}
+.msg_container > ul > li {
+    background: #fff url("../images/msg_ico02.png") right 28px center no-repeat;
+    cursor: pointer;
+}
+.msg_container > ul > li:hover, .msg_container > ul > li.active {
+    background-color: #e9f8fd;
+    background-image: url("../images/msg_ico01.png");
+}
+.msg_container > ul > li:hover .user_name, .msg_container > ul > li.active .user_name{
+    color: #26b8ea;
+}
+.chat_wrap {
+    height: 450px;
+}
+.chat_box {
+    padding-bottom: 4px;
+    padding-right: 8px;
+}
+
+.chat_box h2 {
+    font-family: "Trebuchet MS";
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 54px;
+    color: #717A87;
+    padding: 0px 0px 0px 14px;
+    border-bottom: 1px solid #F1F6FA;
+}
+.chat_main .opp {
+    position: relative;
+    padding: 9px 0 0;
+    margin-top: 10px;
+}
+.chat_main .opp>ul {
+    margin: 0 66px 4px;
+}
+.chat_main .opp>ul>li {
+    margin-bottom: 2px;
+}
+.chat_main .opp>ul>li span {
+    font: 13px "Verdana";
+    color: #fff;
+    display: inline-block;
+    width: 100%;
+    min-height: 32px;
+    border-radius: 4px;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 6px 0;
+}
+.chat_with {
+    padding-bottom: 4px;
+}
+.chat_with img.ava {
+    background: #ccd1da  url("../images/no_pic.png") center no-repeat;
+    display: inline-block;
+    border-radius: 6px;
+    position: absolute;
+    bottom: 2px;
+}
+.chat_main .opp>span {
+    font: 11px "Verdana";
+    color: #ced1d4;
+    display: block;
+    margin: 0 66px;
+}
+.chat_main .opp.left>img {
+    left:8px;
+}
+.chat_main .opp.right>img {
+    right:8px;
+}
+.chat_main .opp.left>ul>li span {
+    background-color: #26b8ea;
+    text-align: left;
+    padding-left: 20px;
+}
+.chat_main .opp.right>ul>li span {
+    background-color: #3595e1;
+    text-align: left;
+    padding-left: 20px;
+}
+.chat_main .opp.left>ul>li:last-child {
+    padding: 0 5px;
+    background-image: url("../images/msg_ico04.png");
+    background-position: 0 center;
+    background-repeat: no-repeat;
+}
+.chat_main .opp.right>ul>li:last-child {
+    padding: 0 5px;
+    background-image: url("../images/msg_ico03.png");
+    background-position: 100% center;
+    background-repeat: no-repeat;
+}
+.chat_with>form {
+    background-color: #f5fafe;
+    text-align: right;
+    padding: 13px 10px;
+}
+.chat_with>form textarea {
+    border: 1px solid #ced1d4;
+    font: 13px "Verdana";
+    color: #717a87;
+    display: block;
+    resize: none;
+    width: 100%;
+    height: 98px;
+    box-sizing: border-box;
+    padding: 4px 10px;
+    margin-bottom: 11px;
+}
+.chat_with>form input[type=button] {
+    font: 16px "Verdana";
+    font-weight: bold;
+    color: #fff;
+    display: inline-block;
+    background-color: #26b8ea;
+    border: none;
+    border-bottom: 4px solid #1da4d2;
+    width: 124px;
+    padding: 6px 0;
+    cursor: pointer;
+}
+
+
+.stt #main {
+    padding: 0;
+    background-color: transparent;
+}
+.stt .retweets_head p {
+    padding-left: 0;
+    background: none;
+}
+.stt .retweets_head a {
+    float: right;
+}
+.stt .twt_container > ul > li {
+    padding: 9px 20px ;
+}
+.stt .user_tweet {
+    margin: 2px 0 0 57px;
+}
+.stt .user_tweet>a{
+    font: 15px/16px "Verdana";
+    color: #3bafda;
+}
+.stt .user_tweet>span{
+    font: 14px "Verdana";
+    color: #727b88;
+}
+.stt .user_tweet .retwt {
+    font-style: italic;
+    float: right;
+    line-height: 40px;
+}
+.stt .side_bar section h2 {
+    font: 22px/72px "Verdana";
+    color: #fff;
+    background-color: #26b8ea;
+    border-bottom: 4px solid #1da4d2;
+    background-repeat: no-repeat;
+    padding-left: 66px;
+}
+.stt .side_bar section>div, .stt .side_bar section>ul {
+    border: 1px solid #dadee2;
+    border-top: none;
+    box-sizing: border-box;
+}
+.stt_statistic h2 {
+    background-image: url(../images/stat_ico02.png);
+    background-position: 19px 22px;
+}
+.stt_retwt h2 {
+    background-image: url(../images/stat_ico03.png);
+    background-position: 17px 20px;
+}
+.stt_retwt ul li>img {
+    background: #ccd1da  url("../images/no_pic.png") center no-repeat;
+    display: inline-block;
+    border-radius: 6px;
+    float: left;
+}
+.stt_retwt ul li .user_tweet span, .stt_retwt ul li .user_tweet a {
+    font: 14px "Verdana";
+    font-weight: bold;
+    color: #727b88;
+}
+.stt_retwt ul li .user_tweet a {
+    color: #26b8ea;
+}
+
+.stt .customers ul li {
+    padding: 7px 12px;
+}
+.customers .user_tweet {
+    margin-top: -4px;
+}
+.customers .user_tweet span, .customers a {
+    font: 13px "Verdana";
+    color: #727b88;
+    display: block;
+}
+.customers .user_tweet span:first-child {
+    font-weight: 700;
+}
+.customers .user_tweet a {
+    color: #3bafda;
+    line-height: 13px;
+}
+.customers .user_tweet span:last-child {
+    font-style: italic;
+}
+
+#gistogramma{
+    height: 289px;
+}
