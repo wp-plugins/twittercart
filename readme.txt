@@ -1,4 +1,4 @@
-﻿=== TwitterCart ===
+=== TwitterCart ===
 Contributors: browserweb
 Tags: twitter, woocommerce
 Donate link: http://browserwebinc.com/
@@ -10,7 +10,6 @@ License: GPLv2 or later
 Promote and sell your Woocommerce Products on Twitter using TwitterCart. #Hashtag add-to-cart Wordpress Plugin.
 
 == Description ==
-
 #TwitterCart is a Social Plugin developed by Browserweb Inc., WordPress Developers, using Twitter’s API functionality to allow for Woocommerce Store Owners and Store Customers to easily interact on Twitter.
 The #TwitterCart plugin is designed so that Woocommerce Store Owners are able to post their latest products, or sale items to Twitter directly from inside WordPress Admin using a unique identifier, in this case the hashtag, which is universally accepted as a search algorithm when using #Twitter.
 #hashtags for #addtocart and #addtowishlist
