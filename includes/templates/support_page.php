@@ -50,7 +50,7 @@ return "
                             </div-->
                         </div>
                         <div class=\"latest_update\" style=\"display: block;\">
-                            <p>v. 0.3.26</p>
+                            <p>v. 1.3.36</p>
                             <div class=\"update_change\">
                                 <span class=\"added\">Added:</span>
                                 <span>
