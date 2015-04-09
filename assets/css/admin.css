@@ -102,6 +102,11 @@
     margin-top: 5px;
 }
 
+
+#plugin-info .block-content, #plugin-info .block-content p {
+     margin-bottom: 5px;
+}
+
 #stats-rightcontent{
     width: 395px;
     height: 550px;
