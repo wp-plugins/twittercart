@@ -1,7 +1,7 @@
 ﻿=== TwitterCart ===
 Contributors: browserweb
 Tags: twitter, woocommerce
-Donate link: http://browserwebinc.com/
+Donate link: https://browserwebinc.com/
 Requires at least: 3.0.1
 Tested up to: 4.1
 Stable tag: 1.3.36
@@ -25,7 +25,7 @@ TwitterCart  Vendor
 
 TwitterCart Developer  
 
-Please visit http://browserwebinc.com/
+Please visit https://browserwebinc.com/
 
 == Installation ==
 1.	Download the TwitterCart archive in zip format and
