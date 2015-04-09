@@ -101,6 +101,9 @@ ul {list-style: none;}
     padding: 14px 14px 0 15px;
     margin-bottom: 33px;
 }
+.block-content > p {
+    margin-bottom: 6px !important;
+}
 
 /*Nav_Bar*/
 
