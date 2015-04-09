@@ -58,7 +58,7 @@ No, replying with "#TwitterCart" hashtag will only save the item to your Cart. Y
 Most content is public on Twitter, so your #TwitterCart replies will be visible to whomever you replied, to those viewing the conversation, and on your own Timeline (unless your Twitter account is set to private).
 
 == Screenshots ==
-<iframe width="532" height="325" src="https://www.youtube.com/embed/hO3tJkAoeak" frameborder="0" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=hO3tJkAoeak
 == Changelog ==
 
 = 1.3.36 =
