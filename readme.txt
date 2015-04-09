@@ -32,7 +32,9 @@ TwitterCart Developer
 Please visit https://browserwebinc.com/
 
 == Installation ==
-<iframe width="532" height="325" src="https://www.youtube.com/embed/alcLPwyVsUM" frameborder="0" allowfullscreen></iframe>
+
+https://www.youtube.com/watch?v=alcLPwyVsUM&feature=player_detailpage
+
 1.	Download the TwitterCart archive in zip format and
 	extract the files on your computer. 
 
