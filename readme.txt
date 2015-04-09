@@ -29,7 +29,7 @@ TwitterCart  Vendor
 
 TwitterCart Developer  
 
-Please visit https://browserwebinc.com/
+Please visit https://twittercart.co/
 
 == Installation ==
 
