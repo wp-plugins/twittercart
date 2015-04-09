@@ -33,7 +33,7 @@ Please visit https://browserwebinc.com/
 
 == Installation ==
 
-https://www.youtube.com/watch?v=alcLPwyVsUM&feature=player_detailpage
+https://www.youtube.com/watch?v=alcLPwyVsUM
 
 1.	Download the TwitterCart archive in zip format and
 	extract the files on your computer. 
