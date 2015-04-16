@@ -14,21 +14,21 @@ Promote and sell your Woocommerce Products on Twitter using TwitterCart. #Hashta
 TwitterCart is a Social WordPress Plugin developed by Browserweb Inc. , WordPress Developers, using Twitter’s API functionality to allow for Woocommerce Store Owners & Store Customers to easily interact on Twitter.<br>
 The #TwitterCart plugin is designed so that Woocommerce Store Owners are able to post their latest products, or sale items to Twitter directly from inside WordPress Admin using a unique identifier, in this case the hashtag, which is universally accepted as a search algorithm when using #Twitter.<br>
 
-<strong>Step 1</strong><br>
+> <strong>Step 1</strong><br>
+>
+> Install TwitterCart [(see video tutorial)](https://wordpress.org/plugins/twittercart/installation/)
 
-Install TwitterCart [(see video tutorial)](https://wordpress.org/plugins/twittercart/installation/)<br>
+> <strong>Step 2</strong><br>
+>
+> Configure Options Page [(see video tutorial)](https://wordpress.org/plugins/twittercart/screenshots/)
 
-<strong>Step 2</strong><br>
+> <strong>Step 3</strong><br>
+>
+> Compose and Post a new Tweet (which is a product from your Woocommerce Store) from inside WordPress with your #hashtag identifier<br>
 
-Configure Options Page [(see video tutorial)](https://wordpress.org/plugins/twittercart/screenshots/)<br>
-
-<strong>Step 3</strong><br>
-
-Compose and Post a new Tweet (which is a product from your Woocommerce Store) from inside WordPress with your #hashtag identifier<br>
-
-<strong>Step 4</strong><br>
-
-Watch your product go viral on Twitter!  See customers @reply with the #hashtag idenitifier or interact on Twitter about your product. Customers will be able to add to cart or add to wishlist for easy checkout on your store next time they login.
+> <strong>Step 4</strong><br>
+>
+> Watch your product go viral on Twitter!  See customers @reply with the #hashtag idenitifier or interact on Twitter about your product. Customers will be able to add to cart or add to wishlist for easy checkout on your store next time they login.
 = Video Explainer = 
 https://www.youtube.com/watch?v=EOgR3gdT5yI
 
