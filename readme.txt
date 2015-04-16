@@ -86,7 +86,14 @@ No, replying with "#TwitterCart" hashtag will only save the item to your Cart. Y
 Most content is public on Twitter, so your #TwitterCart replies will be visible to whomever you replied, to those viewing the conversation, and on your own Timeline (unless your Twitter account is set to private).
 
 == Screenshots ==
+<h4>How to Setup TwitterCart</h4>
+Watch the  video tutorial below to learn how to setup the “Options” page in TwitterCart, which connects your Twitter Account with TwitterCart;<br>
+= Video Explainer = <br>
 https://www.youtube.com/watch?v=hO3tJkAoeak
+<h4>Need more Help?</h4>
+For more information about TwitterCart upgrades, features, tutorials and in-depth details on all versions of this Social WordPress Plugin, namely
+TwitterCart Pro   |   TwitterCart Vendor   |   TwitterCart Developer
+Please visit https://twittercart.co/
 == Changelog ==
 
 = 1.3.36 =
