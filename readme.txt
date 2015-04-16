@@ -52,7 +52,9 @@ TwitterCart Pro   |   TwitterCart Vendor   |   TwitterCart Developer
 Please visit https://twittercart.co/
 
 == Installation ==
-
+<h4>Install via WordPress Admin</h4>
+How to install TwitterCart via your WordPress Admin video tutorial below;
+= Video Explainer = <br>
 https://www.youtube.com/watch?v=alcLPwyVsUM
 
 1.	Download the TwitterCart archive in zip format and
@@ -65,7 +67,13 @@ https://www.youtube.com/watch?v=alcLPwyVsUM
 
 3.	Log in to the WordPress Dashboard and activate the TwitterCart plugin.
 
-5.	Configure the plugin and add it to the plugin settings page.
+4.	Configure the plugin and add it to the plugin settings page.
+
+For more information about TwitterCart upgrades, features, tutorials and in-depth details on all versions of this Social WordPress Plugin, namely;
+
+TwitterCart Pro   |   TwitterCart Vendor   |   TwitterCart Developer
+
+Please visit https://twittercart.co/
 
 == Frequently Asked Questions ==
 = Why do I need to connect my Twitter account? =
