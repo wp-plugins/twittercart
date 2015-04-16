@@ -11,23 +11,44 @@ Promote and sell your Woocommerce Products on Twitter using TwitterCart. #Hashta
 
 == Description ==
 <h4>About TwitterCart</h4>
-Plugin #TwitterCart is a Social Plugin developed by Browserweb Inc. , WordPress Developers, using Twitter’s API functionality to allow for Woocommerce Store Owners & Store Customers to easily interact on Twitter.
+TwitterCart is a Social WordPress Plugin developed by Browserweb Inc. , WordPress Developers, using Twitter’s API functionality to allow for Woocommerce Store Owners & Store Customers to easily interact on Twitter.<br>
 The #TwitterCart plugin is designed so that Woocommerce Store Owners are able to post their latest products, or sale items to Twitter directly from inside WordPress Admin using a unique identifier, in this case the hashtag, which is universally accepted as a search algorithm when using #Twitter.<br>
-
+Step 1
+Install TwitterCart [(see video tutorial)](https://wordpress.org/plugins/twittercart/installation/)
+Step 2
+Configure Options Page [(see video tutorial)](https://wordpress.org/plugins/twittercart/screenshots/)
+Step 3
+Compose and Post a new Tweet (which is a product from your Woocommerce Store) from inside WordPress with your #hashtag identifier
+Step 4
+Watch your product go viral on Twitter!  See customers @reply with the #hashtag idenitifier or interact on Twitter about your product. Customers will be able to add to cart or add to wishlist for easy checkout on your store next time they login.
+<h2>Video Explainer</h2>
 https://www.youtube.com/watch?v=EOgR3gdT5yI
 
 <br>
 <h4>#hashtags for #addtocart and #addtowishlist</h4>
-There are two types of hashtag the Woocommerce Store Owners can post, namely #addtocart format or #addtowishlist.  Customers who view these product postings on Twitter can reply to the Store Owner using the @reply feature and the #addtocart or #addtowishlist hashtag will be in that reply.  On sending the reply, this product is either added to the customers account ready for checkout, or added to their wishlist automatically.  The next time they login to their account at the store owner’s website, the product will already be in the shopping cart or wishlist.  Customers can then purchase the item as normal.  No sale transaction is carried out on Twitter, it is just “bookmarking” the product in the customer’s account.
+There are two types of hashtag the Woocommerce Store Owners can post, namely #addtocart format or #addtowishlist.
+
+Customers who view these product postings on Twitter can reply to the Store Owner using the @reply feature and the #addtocart or #addtowishlist hashtag will be in that reply.
+
+On sending the reply, this product is either added to the customers account ready for checkout, or added to their wishlist automatically.
+
+The next time they login to their account at the store owner’s website, the product will already be in the shopping cart or wishlist.<br>
+
+Customers can then purchase the item as normal. No sale transaction is carried out on Twitter, it is just “bookmarking” the product in the customer’s account.<br>
+
 Store Owners are posting Products directly from inside their WordPress Admin and are allowed 140 characters and an image as well when posting to their authorized Twitter account.<br>
-Not only can Store Owners reach their existing customers on Twitter, but #TwitterCart will attract new customers who see these Twitter posts.  If a new customer replies to the #TwitterCart product posting, then they will be asked to become a registered member at the Store Owner’s website in a Tweet reply!  Everyone on Twitter can share, retweet, follow the Store Vendors tweets thus increasing social sharing, customers and sales!
-For more information about TwitterCart upgrades, features,  tutorials and in-depth details on all versions of this Social Wordpress Plugin, namely;
 
-TwitterCart  Pro  
+Not only can Store Owners reach their existing customers on Twitter, but #TwitterCart will attract new customers who see these Twitter posts.<br>
 
-TwitterCart  Vendor  
+If a new customer replies to the #TwitterCart product posting, then they will be asked to become a registered member at the Store Owner’s website in a Tweet reply!<br>
 
-TwitterCart Developer  
+Everyone on Twitter can share, retweet, follow the Store Vendors tweets thus increasing social sharing, customers and sales!<br>
+
+
+<h4>Need more Help?</h4>
+For more information about TwitterCart upgrades, features, tutorials and in-depth details on all versions of this Social WordPress Plugin, namely;
+
+TwitterCart Pro   |   TwitterCart Vendor   |   TwitterCart Developer
 
 Please visit https://twittercart.co/
 
