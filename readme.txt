@@ -92,7 +92,9 @@ Watch the  video tutorial below to learn how to setup the “Options” page in 
 https://www.youtube.com/watch?v=hO3tJkAoeak
 <h4>Need more Help?</h4>
 For more information about TwitterCart upgrades, features, tutorials and in-depth details on all versions of this Social WordPress Plugin, namely
+
 TwitterCart Pro   |   TwitterCart Vendor   |   TwitterCart Developer
+
 Please visit https://twittercart.co/
 == Changelog ==
 
