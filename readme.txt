@@ -21,7 +21,8 @@ The #TwitterCart plugin is designed so that Woocommerce Store Owners are able to
 > Compose and Post a new Tweet (which is a product from your Woocommerce Store) from inside WordPress with your #hashtag identifier<br><br>
 > <strong>Step 4</strong><br>
 > Watch your product go viral on Twitter!  See customers @reply with the #hashtag idenitifier or interact on Twitter about your product. Customers will be able to add to cart or add to wishlist for easy checkout on your store next time they login.
-<h3>Video Explainer</h3> 
+<h3>Video Explainer</h3>
+ 
 https://www.youtube.com/watch?v=EOgR3gdT5yI
 
 <h4>#hashtags for #addtocart and #addtowishlist</h4>
@@ -54,7 +55,8 @@ Please visit https://twittercart.co/
 == Installation ==
 <h4>Install via WordPress Admin</h4>
 How to install TwitterCart via your WordPress Admin video tutorial below;
-<h3>Video Explainer</h3> 
+<h3>Video Explainer</h3>
+  
 https://www.youtube.com/watch?v=alcLPwyVsUM
 
 1.	Download the TwitterCart archive in zip format and
@@ -88,7 +90,8 @@ Most content is public on Twitter, so your #TwitterCart replies will be visible 
 == Screenshots ==
 <h4>How to Setup TwitterCart</h4>
 Watch the  video tutorial below to learn how to setup the “Options” page in TwitterCart, which connects your Twitter Account with TwitterCart;<br>
-<h3>Video Explainer</h3> 
+<h3>Video Explainer</h3>
+ 
 https://www.youtube.com/watch?v=hO3tJkAoeak
 <h4>Need more Help?</h4>
 For more information about TwitterCart upgrades, features, tutorials and in-depth details on all versions of this Social WordPress Plugin, namely
