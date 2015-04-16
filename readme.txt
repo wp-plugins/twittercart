@@ -54,7 +54,7 @@ Please visit https://twittercart.co/
 == Installation ==
 <h4>Install via WordPress Admin</h4>
 How to install TwitterCart via your WordPress Admin video tutorial below;
-= Video Explainer = <br>
+<h3>Video Explainer</h3> 
 https://www.youtube.com/watch?v=alcLPwyVsUM
 
 1.	Download the TwitterCart archive in zip format and
@@ -88,7 +88,7 @@ Most content is public on Twitter, so your #TwitterCart replies will be visible 
 == Screenshots ==
 <h4>How to Setup TwitterCart</h4>
 Watch the  video tutorial below to learn how to setup the “Options” page in TwitterCart, which connects your Twitter Account with TwitterCart;<br>
-= Video Explainer = <br>
+<h3>Video Explainer</h3> 
 https://www.youtube.com/watch?v=hO3tJkAoeak
 <h4>Need more Help?</h4>
 For more information about TwitterCart upgrades, features, tutorials and in-depth details on all versions of this Social WordPress Plugin, namely
