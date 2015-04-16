@@ -21,7 +21,7 @@ The #TwitterCart plugin is designed so that Woocommerce Store Owners are able to
 > Compose and Post a new Tweet (which is a product from your Woocommerce Store) from inside WordPress with your #hashtag identifier<br><br>
 > <strong>Step 4</strong><br>
 > Watch your product go viral on Twitter!  See customers @reply with the #hashtag idenitifier or interact on Twitter about your product. Customers will be able to add to cart or add to wishlist for easy checkout on your store next time they login.
-= Video Explainer = <br>
+<h3>Video Explainer</h3> 
 https://www.youtube.com/watch?v=EOgR3gdT5yI
 
 <h4>#hashtags for #addtocart and #addtowishlist</h4>
