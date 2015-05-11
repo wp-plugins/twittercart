@@ -1,6 +1,6 @@
 ﻿=== TwitterCart ===
 Contributors: browserweb
-Tags: twitter, woocommerce
+Tags: twitter, woocommerce, woocommerce products, social, twitter cards, ecommerce, amazon, amazon cart, share, social analytics
 Donate link: https://browserwebinc.com/
 Requires at least: 3.0.1
 Tested up to: 4.1
